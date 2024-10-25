@@ -1,0 +1,7 @@
+{
+    "scheme": "crispy",
+    "web": {
+        "bundler": "metro"
+    }
+  }
+  
